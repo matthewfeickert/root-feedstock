@@ -55,6 +55,3 @@ index 76d9eee2ce..e641a71809 100644
    if(JPEG_FOUND)
      set(ASEXTRA_LIBRARIES ${ASEXTRA_LIBRARIES} ${JPEG_LIBRARIES})
    endif()
--- 
-2.47.0
-

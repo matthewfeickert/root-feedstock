@@ -23,6 +23,3 @@ index 2a479be..678e15d 100644
  	  elif test "x$have_freetype" = "xyes" ; then
  		AC_TRY_RUN([#include <ft2build.h>
  			#include <freetype.h>
--- 
-2.27.0
-

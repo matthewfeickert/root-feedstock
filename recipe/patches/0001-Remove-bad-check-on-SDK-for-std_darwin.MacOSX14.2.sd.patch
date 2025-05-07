@@ -30,6 +30,3 @@ index 385c036825..983e1e792f 100644
      }
  #else
      maybeAppendOverlayEntry(cIncLoc.str(), "libc.modulemap",
--- 
-2.47.0
-

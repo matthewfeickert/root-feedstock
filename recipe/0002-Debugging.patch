@@ -20,6 +20,3 @@ index 6ef98a604b..0d81c67bfb 100644
      target_compile_definitions(RHTTP PUBLIC -DNO_SSL)
    endif()
    if(link_ssl)
--- 
-2.47.1
-

@@ -60,6 +60,3 @@ index 2a479be9e1..1cbf9a521d 100644
  AC_PROG_LN_S
  dnl# AC_SUBST(CC)
  dnl# AC_SUBST(GCC)
--- 
-2.47.0
-
