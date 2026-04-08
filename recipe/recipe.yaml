@@ -1,7 +1,7 @@
 context:
   name: root
   tag_name: 6-38-04
-  build_number: 0
+  build_number: 1
   clang_version: 20.1.8
   clang_patches_version: root_63800
   builtin_clang: false
@@ -69,9 +69,9 @@ outputs:
         overdepending_behavior: ignore
       prefix_detection:
         ignore:
+          - lib/*.pcm
           - if: aarch64
             then: etc/allDict.cxx.pch
-            else: lib/*.pcm
       files:
         include:
           - "**"
